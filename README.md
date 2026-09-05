@@ -1,7 +1,6 @@
 <!--
   GitHub Profile · lazzykid — manga edition
-  Этот файл кладётся в репозиторий lazzykid/lazzykid (см. SETUP.md).
-  Пометки, которые надо заполнить: TODO-BANNER, TODO-CONTACTS, TODO-ANIME
+  Репозиторий: lazzykid/lazzykid. Пометка для заполнения: TODO-CONTACTS, TODO-ANIME
 -->
 
 <div align="center">
@@ -9,9 +8,7 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Bangers&size=26&pause=1200&color=e05c85&center=true&vCenter=true&width=640&height=50&lines=FULL-STACK+DEVELOPER;Java+%7C+C%2B%2B+%7C+TypeScript+%7C+Python;No+filler%2C+just+commits;%E3%82%B3%E3%83%BC%E3%83%89%E3%81%A8%E3%83%9E%E3%83%B3%E3%82%AC%E3%81%8C%E5%A4%A7%E5%A5%BD%E3%81%8D" alt="Typing SVG" />
-  </a>
+  <img src="assets/typing.svg" alt="Full-Stack Developer" />
 </div>
 
 <!-- TODO-CONTACTS: раскомментируй блок ниже и вставь свои email и ник в Telegram
@@ -25,7 +22,9 @@
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 📖 Chapter 01 — About Me
+<p align="center">
+  <img src="assets/icons/ch1.svg" alt="Chapter 01: About Me" />
+</p>
 
 <div align="center">
 
@@ -34,19 +33,16 @@ starts strong, no filler, ships every chapter on time.
 
 </div>
 
-<!-- Хочешь gif-иконку? Положи её в assets/icon.gif и замени в строке ниже "icon.jpg" на "icon.gif" -->
-<div align="center">
-  <img src="assets/icon.jpg" width="150" alt="icon" />
-</div>
-
-- 🔭 Currently building with **Next.js, React & PostgreSQL**
-- 🌱 Always grinding new tech — side quests are welcome
-- 💬 Ask me about **Java, C++, TypeScript, Python**
-- ⚡ Fun fact: I debug like a manga protagonist — take the hit, power up, try again
+- <img src="assets/icons/rocket.svg" width="22" alt="" /> Currently building with **Next.js, React & PostgreSQL**
+- <img src="assets/icons/sprout.svg" width="22" alt="" /> Always grinding new tech — side quests are welcome
+- <img src="assets/icons/bubble.svg" width="22" alt="" /> Ask me about **Java, C++, TypeScript, Python**
+- <img src="assets/icons/bolt.svg" width="22" alt="" /> Fun fact: I debug like a manga protagonist — take the hit, power up, try again
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## ⚔️ Chapter 02 — Tech Stack
+<p align="center">
+  <img src="assets/icons/ch2.svg" alt="Chapter 02: Tech Stack" />
+</p>
 
 <div align="center">
 
@@ -66,7 +62,9 @@ starts strong, no filler, ships every chapter on time.
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 📊 Chapter 03 — GitHub Stats
+<p align="center">
+  <img src="assets/icons/ch3.svg" alt="Chapter 03: GitHub Stats" />
+</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lazzykid&show_icons=true&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub stats" />
@@ -75,11 +73,15 @@ starts strong, no filler, ships every chapter on time.
   <img src="https://streak-stats.demolab.com?user=lazzykid&theme=highcontrast&hide_border=true" height="165" alt="GitHub streak" />
 </div>
 
+<!-- Трофеи: сервис github-profile-trophy сейчас лежит (402). Верни строку ниже, когда оживёт:
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lazzykid&no-frame=true&no-bg=true&margin-w=6&column=6&title_color=e05c85&text_color=8B949E" width="90%" alt="Trophies" />
 </div>
+-->
 
-### 🐍 Contribution Snake
+<p align="center">
+  <img src="assets/icons/snake_hdr.svg" alt="Contribution Snake" />
+</p>
 
 <div align="center">
   <picture>
@@ -91,7 +93,9 @@ starts strong, no filler, ships every chapter on time.
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 🍜 Chapter 04 — When I'm Not Coding
+<p align="center">
+  <img src="assets/icons/ch4.svg" alt="Chapter 04: When I’m Not Coding" />
+</p>
 
 <div align="center">
 
@@ -106,6 +110,10 @@ starts strong, no filler, ships every chapter on time.
 
 > *"A lesson without pain is meaningless. For that reason, people who exist without pain are incomplete."*
 > — Edward Elric · Fullmetal Alchemist
+
+<div align="center">
+  <img src="assets/banner2.jpg" alt="anime banner" width="100%" />
+</div>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
