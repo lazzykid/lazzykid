@@ -14,15 +14,15 @@
 
 <div align="center">
 
-**Full-Stack Developer** who treats every project like a good manga arc —
-starts strong, no filler, ships every chapter on time.
+**Full-Stack & Systems Developer**
+
+Building web applications, desktop tools, and custom utilities.
 
 </div>
 
-- <img src="assets/icons/rocket.svg" width="22" alt="" /> Currently building with **Next.js, React & PostgreSQL**
-- <img src="assets/icons/sprout.svg" width="22" alt="" /> Always grinding new tech — side quests are welcome
-- <img src="assets/icons/bubble.svg" width="22" alt="" /> Ask me about **Java, C++, TypeScript, Python**
-- <img src="assets/icons/bolt.svg" width="22" alt="" /> Fun fact: I debug like a manga protagonist — take the hit, power up, try again
+- **Stack:** TypeScript, Node.js, Next.js, PostgreSQL, Prisma
+- **Languages:** C++, Rust, Python, Luau
+- **Environment:** Windows (Tauri, MSVC)
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
@@ -42,7 +42,7 @@ starts strong, no filler, ships every chapter on time.
 
 **Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux,vscode,vercel&theme=dark" alt="Tools and platforms" />
+<img src="https://skillicons.dev/icons?i=docker,git,githubactions,windows,vscode,vercel&theme=dark" alt="Tools and platforms" />
 
 </div>
 
