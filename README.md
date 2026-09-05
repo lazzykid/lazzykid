@@ -1,8 +1,3 @@
-<!--
-  GitHub Profile · lazzykid — manga edition
-  Репозиторий: lazzykid/lazzykid. Пометки для заполнения: TODO-TELEGRAM, TODO-ANIME
--->
-
 <div align="center">
   <img src="assets/banner.jpg" alt="anime banner" width="100%" />
 </div>
@@ -10,18 +5,6 @@
 <div align="center">
   <img src="assets/typing.svg" alt="Full-Stack Developer" />
 </div>
-
-<div align="center">
-  <a href="https://discord.com/users/994992838435672124"><img src="https://img.shields.io/badge/discord-add%20me-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000" alt="Discord" /></a>
-</div>
-
-<!-- TODO-TELEGRAM: скинешь ник — добавится бейдж Telegram. Раскомментируй и вставь ник:
-
-<div align="center">
-  <a href="https://t.me/your_username"><img src="https://img.shields.io/badge/telegram-your_username-2AABEE?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" alt="Telegram" /></a>
-</div>
-
--->
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
@@ -76,12 +59,6 @@ starts strong, no filler, ships every chapter on time.
   <img src="https://streak-stats.demolab.com?user=lazzykid&theme=highcontrast&hide_border=true" height="165" alt="GitHub streak" />
 </div>
 
-<!-- Трофеи: сервис github-profile-trophy сейчас лежит (402). Верни строку ниже, когда оживёт:
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lazzykid&no-frame=true&no-bg=true&margin-w=6&column=6&title_color=e05c85&text_color=8B949E" width="90%" alt="Trophies" />
-</div>
--->
-
 <p align="center">
   <img src="assets/icons/snake_hdr.svg" alt="Contribution Snake" />
 </p>
@@ -101,8 +78,6 @@ starts strong, no filler, ships every chapter on time.
 </p>
 
 <div align="center">
-
-<!-- TODO-ANIME: подставь свои тайтлы — ссылки ведут на MyAnimeList -->
 
 **All-time favorites:** [Steins;Gate](https://myanimelist.net/anime/9253/Steins_Gate) ·
 [Fullmetal Alchemist: Brotherhood](https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood) ·
