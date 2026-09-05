@@ -1,6 +1,6 @@
 <!--
   GitHub Profile · lazzykid — manga edition
-  Репозиторий: lazzykid/lazzykid. Пометка для заполнения: TODO-CONTACTS, TODO-ANIME
+  Репозиторий: lazzykid/lazzykid. Пометки для заполнения: TODO-TELEGRAM, TODO-ANIME
 -->
 
 <div align="center">
@@ -11,10 +11,13 @@
   <img src="assets/typing.svg" alt="Full-Stack Developer" />
 </div>
 
-<!-- TODO-CONTACTS: раскомментируй блок ниже и вставь свои email и ник в Telegram
+<div align="center">
+  <a href="https://discord.com/users/994992838435672124"><img src="https://img.shields.io/badge/discord-add%20me-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000" alt="Discord" /></a>
+</div>
+
+<!-- TODO-TELEGRAM: скинешь ник — добавится бейдж Telegram. Раскомментируй и вставь ник:
 
 <div align="center">
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/email-your%40email.com-000000?style=for-the-badge&logo=gmail&logoColor=e05c85&labelColor=000000" alt="Email" /></a>
   <a href="https://t.me/your_username"><img src="https://img.shields.io/badge/telegram-your_username-2AABEE?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" alt="Telegram" /></a>
 </div>
 
@@ -104,8 +107,7 @@ starts strong, no filler, ships every chapter on time.
 **All-time favorites:** [Steins;Gate](https://myanimelist.net/anime/9253/Steins_Gate) ·
 [Fullmetal Alchemist: Brotherhood](https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood) ·
 [Jujutsu Kaisen](https://myanimelist.net/anime/40748/Jujutsu_Kaisen) ·
-[Chainsaw Man](https://myanimelist.net/anime/44511/Chainsaw_Man)
-
+[Spirited Away](https://myanimelist.net/anime/199/Sen_to_Chihiro_no_Kamikakushi)
 
 </div>
 
