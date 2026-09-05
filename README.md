@@ -104,7 +104,6 @@ starts strong, no filler, ships every chapter on time.
 **All-time favorites:** [Steins;Gate](https://myanimelist.net/anime/9253/Steins_Gate) ·
 [Fullmetal Alchemist: Brotherhood](https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood) ·
 [Jujutsu Kaisen](https://myanimelist.net/anime/40748/Jujutsu_Kaisen) ·
-[Spirited Away](https://myanimelist.net/anime/199/Sen_to_Chihiro_no_Kamikakushi)
 [Chainsaw Man](https://myanimelist.net/anime/44511/Chainsaw_Man)
 
 
